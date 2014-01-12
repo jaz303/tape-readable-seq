@@ -1,6 +1,6 @@
 {
   "name": "tape-readable-seq",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Test readable streams emit a predefined sequence of values with tape",
   "main": "index.js",
   "scripts": {
