@@ -1,0 +1,25 @@
+{
+  "name": "tape-readable-seq",
+  "version": "0.0.0",
+  "description": "Test readable streams emit a predefined sequence of values with tape",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jaz303/tape-readable-seq.git"
+  },
+  "keywords": [
+    "tape",
+    "test",
+    "stream",
+    "sequence"
+  ],
+  "author": "Jason Frame <jason@onehackoranother.com> (http://jasonframe.co.uk)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaz303/tape-readable-seq/issues"
+  },
+  "homepage": "https://github.com/jaz303/tape-readable-seq"
+}
